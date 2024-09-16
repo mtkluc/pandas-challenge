@@ -6,4 +6,6 @@ Please note - this version utilises the files on bootcampspot which ask for a pa
 
 Code development assisted by fellow students & stackoverflow.
 
+Jupyter file located in the file
+
 ---------
